@@ -1,0 +1,10 @@
+export const ON_ENTER_ROOM_EVENT = 'on-enter-room';
+export const ON_EXIT_ROOM_EVENT = 'on-exit-room';
+export const NEW_MATCH_EVENT = 'new-match';
+export const EXTRACTED_NUMBERS_EVENT = 'extracted-numbers';
+export const PLAYER_JOINED_EVENT = 'player-joined';
+export const NEW_ROOM_AVAILABLE_EVENT = 'new-room-available';
+export const NEW_MATCH_STARTED_EVENT = 'new-match-started';
+export const PAUSE_MATCH_EVENT = 'pause-match';
+export const PLAY_MATCH_EVENT = 'play-match';
+export const BINGO_ONE_STARTED_EVENT = 'bingo-one-started';
