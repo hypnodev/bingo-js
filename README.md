@@ -39,6 +39,10 @@ So the right setup is to be in a room with at least 10 people, put how many tomb
 
 With some small changes same thing can be done but without physical cards :) 
 
+### Screen
+<img align="right" width="200" src="https://raw.githubusercontent.com/hypnodev/bingo-js/main/screens/home.png">
+<img align="right" width="200" src="https://raw.githubusercontent.com/hypnodev/bingo-js/main/screens/room.png">
+
 ## Contribute
 Feel free to push any changes, improve anything and fix stuff.  
 
